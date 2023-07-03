@@ -1,0 +1,163 @@
+[
+  {
+    "product_id": 1,
+    "name": "Croissant",
+    "category": "Others",
+    "price": 2.5,
+    "image": "https://static01.nyt.com/images/2021/04/07/dining/06croissantsrex1/merlin_184841898_ccc8fb62-ee41-44e8-9ddf-b95b198b88db-articleLarge.jpg"
+  },
+  {
+    "product_id": 2,
+    "name": "Pain au Chocolate",
+    "category": "Pastries",
+    "price": 3.0,
+    "image": "https://5.imimg.com/data5/DR/YY/MY-23905729/chocolate-chip-pastry-500x500.jpg"
+  },
+  {
+    "product_id": 3,
+    "name": "Brioche",
+    "category": "Pastries",
+    "price": 2.75,
+    "image": "https://cdn.shopify.com/s/files/1/0279/6329/3831/products/Chocolate-Truffle-Pastries_grande.jpg?v=1577958105"
+  },
+  {
+    "product_id": 4,
+    "name": "Cinnamon",
+    "category": "Pastries",
+    "price": 2.9,
+    "image": "https://bakewithshivesh.com/wp-content/uploads/2021/07/IMG_0745-scaled.jpg"
+  },
+  {
+    "product_id": 5,
+    "name": "Apple Fritter",
+    "category": "Pastries",
+    "price": 2.8,
+    "image": "https://cdn.shopify.com/s/files/1/0034/8343/5072/products/Webp.net-resizeimage_2_5921063b-ffd7-4a50-a120-a97eca22f682.jpg?v=1610524137"
+  },
+  {
+    "product_id": 6,
+    "name": "Blueberry Muffin",
+    "category": "Pastries",
+    "price": 2.7,
+    "image": "https://ribbonsandballoons.com/assets1/uploads/Strawberry-Pastry_834483.jpg"
+  },
+  {
+    "product_id": 7,
+    "name": "Glazed Donut",
+    "category": "Donuts",
+    "price": 1.5,
+    "image": "https://thefirstyearblog.com/wp-content/uploads/2020/10/chocolate-donuts-Square2.png"
+  },
+  {
+    "product_id": 8,
+    "name": "Chocolate Donut",
+    "category": "Donuts",
+    "price": 1.8,
+    "image": "https://cafehops.com/wp-content/uploads/2017/08/Chocolate-Donuts-Bangalore-Cafe-Hops-1.jpg"
+  },
+  {
+    "product_id": 9,
+    "name": "Strawberry Donut",
+    "category": "Donuts",
+    "price": 1.7,
+    "image": "https://sallysbakingaddiction.com/wp-content/uploads/2016/02/party-donuts-sallys-baking-addiction.jpg"
+  },
+  {
+    "product_id": 10,
+    "name": "Powdered Sugar Donut",
+    "category": "Donuts",
+    "price": 1.6,
+    "image": "https://sugarspunrun.com/wp-content/uploads/2020/01/homemade-donut-recipe-1-of-1-5.jpg"
+  },
+  {
+    "product_id": 11,
+    "name": "Vanilla Cupcake",
+    "category": "Cupcakes",
+    "price": 2.0,
+    "image": "https://natashaskitchen.com/wp-content/uploads/2020/05/Vanilla-Cupcakes-3.jpg"
+  },
+  {
+    "product_id": 12,
+    "name": "Chocolate Cupcake",
+    "category": "Cupcakes",
+    "price": 2.2,
+    "image": "https://sallysbakingaddiction.com/wp-content/uploads/2017/06/moist-chocolate-cupcakes-5.jpg"
+  },
+  {
+    "product_id": 13,
+    "name": "Red Velvet Cupcake",
+    "category": "Cupcakes",
+    "price": 2.3,
+    "image": "https://www.livewellbakeoften.com/wp-content/uploads/2021/06/Red-Velvet-Cupcakes-3-New-copy.jpg"
+  },
+  {
+    "product_id": 14,
+    "name": "Carrot Cupcake",
+    "category": "Cupcakes",
+    "price": 2.1,
+    "image": "https://bakerbynature.com/wp-content/uploads/2016/01/IMG_5734-6-3.jpg"
+  },
+  {
+    "product_id": 15,
+    "name": "Chocolate Chip Cookie",
+    "category": "Cookies",
+    "price": 1.2,
+    "image": "https://static01.nyt.com/images/2022/02/12/dining/JT-Chocolate-Chip-Cookies/JT-Chocolate-Chip-Cookies-threeByTwoMediumAt2X.jpg"
+  },
+  {
+    "product_id": 16,
+    "name": "Oatmeal Raisin Cookie",
+    "category": "Cookies",
+    "price": 1.1,
+    "image": "https://sallysbakingaddiction.com/wp-content/uploads/2014/07/oatmeal-raisin-cookies-3.jpg"
+  },
+  {
+    "product_id": 17,
+    "name": "Peanut Butter Cookie",
+    "category": "Cookies",
+    "price": 1.3,
+    "image": "https://www.allrecipes.com/thmb/aeMeDEKlRCFKrx-RnghY-4q1BSY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1-275-classic-peanut-butter-cookies-mfs15-1-8cbd4a21fe5f474982c00fecafae57bf.jpg"
+  },
+  {
+    "product_id": 18,
+    "name": "Sugar Cookie",
+    "category": "Cookies",
+    "price": 1.0,
+    "image": "https://thebusybaker.ca/wp-content/uploads/2018/09/soft-chewy-sugar-cookies-fbig2.jpg"
+  },
+  {
+    "product_id": 19,
+    "name": "Baguette",
+    "category": "Others",
+    "price": 2.0,
+    "image": "https://cdn.shopify.com/s/files/1/0279/6329/3831/files/IMG_9183_grande.jpg?v=1682498190"
+  },
+  {
+    "product_id": 20,
+    "name": "Pretzel",
+    "category": "Others",
+    "price": 1.5,
+    "image": "https://static.toiimg.com/thumb/57535840.cms?width=1200&height=900"
+  },
+  {
+    "product_id": 21,
+    "name": "Scone",
+    "category": "Others",
+    "price": 2.2,
+    "image": "https://www.abakingjourney.com/wp-content/uploads/2021/07/Scones-Feature.jpg"
+  },
+  {
+    "product_id": 22,
+    "name": "Eclair",
+    "category": "Others",
+    "price": 3.0,
+    "image": "https://sugargeekshow.com/wp-content/uploads/2022/10/eclair_featured-2-1.jpg"
+  },
+  {
+    "product_id": 23,
+    "name": "Danish Pastry",
+    "category": "Others",
+    "price": 2.7,
+    "image": "https://www.foodandwine.com/thmb/dCBqp4GlxvlH0YoWU-KbxmRynFU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/miso-caramel-apple-danish-FT-RECIPE0920-005dcb017b23462383ea77c4549b1a44.jpg"
+  }
+]
